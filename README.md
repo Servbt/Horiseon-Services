@@ -4,8 +4,8 @@ The following code has been refracted (or at least attempted to be) for the sake
 
 ## These are screenshots of the website
 
-![first half of the website.](./first.png)
-![first half of the website.](./second.png)
+![first half of the website.](./assets/first.PNG)
+![first half of the website.](./assets/second.PNG)
 
 ## Here are some links pertaining to the assigment
 
